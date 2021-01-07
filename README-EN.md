@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.loli.net/2021/01/07/rbsZSOzmgyQkFVN.png"></img>
 </p>
+
 # 只狼坏档修复工具 / sekiro-corrupt-save-fix
 
 **[简体中文](./README.md)**  |  **English**
