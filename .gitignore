@@ -1,1 +1,4 @@
 /**/__pycache__/
+/tool/build/
+/tool/dist/
+/tool/**/*.spec

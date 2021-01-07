@@ -1,6 +1,9 @@
 # GUI for sekiro-corrupt-save-fix
 # https://github.com/z0gSh1u/sekiro-corrupt-save-fix
 
+import os.path as path
+dirname__ = path.dirname(path.abspath(__file__))
+
 from tkinter import *
 from tkinter import filedialog, ttk, messagebox
 from fix import main as fix_main
