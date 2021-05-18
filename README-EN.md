@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.loli.net/2021/01/07/rbsZSOzmgyQkFVN.png"></img>
+  <img src="https://z3.ax1x.com/2021/05/18/ghL2ut.png"></img>
 </p>
 
 # 只狼坏档修复工具 / sekiro-corrupt-save-fix
@@ -27,7 +27,7 @@ This tool is written based on [this](https://www.reddit.com/r/Sekiro/comments/b5
 
 - Download the lastest Release version of `scsf.exe` from [here](https://github.com/z0gSh1u/sekiro-corrupt-save-fix/releases). It looks like this:
 
-  ![scsf_index](https://i.loli.net/2021/01/07/NULkCvxSDEQH15P.png)
+  ![scsf_index](https://z3.ax1x.com/2021/05/18/ghLcjI.png)
 
 - Open it, click button [Browse S0000.sl2], select Sekiro Save Path
 
