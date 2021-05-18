@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.loli.net/2021/01/07/rbsZSOzmgyQkFVN.png"></img>
+  <img src="https://z3.ax1x.com/2021/05/18/ghL2ut.png"></img>
 </p>
 
 # 只狼坏档修复工具 / sekiro-corrupt-save-fix
@@ -27,7 +27,7 @@
 
 - 在 [这里](https://github.com/z0gSh1u/sekiro-corrupt-save-fix/releases) 下载最新的 Release 版修复工具 `scsf.exe`，它长这样：
 
-  ![scsf_index](https://i.loli.net/2021/01/07/NULkCvxSDEQH15P.png)
+  ![scsf_index](https://z3.ax1x.com/2021/05/18/ghLcjI.png)
 
 - 打开该工具，点击 [Browse S0000.sl2] 按钮，选择只狼存档位置
 
