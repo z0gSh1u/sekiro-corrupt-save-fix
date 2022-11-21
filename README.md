@@ -42,7 +42,7 @@
 - 克隆本仓库
 
   ```
-  git clone git@github.com:z0gSh1u/sekiro-corrupt-save-fix.git
+  git clone https://github.com/z0gSh1u/sekiro-corrupt-save-fix.git
   ```
 
 - 如果需要图形界面，执行
@@ -63,7 +63,7 @@
 - 克隆本仓库
 
   ```
-  git clone git@github.com:z0gSh1u/sekiro-corrupt-save-fix.git
+  git clone https://github.com/z0gSh1u/sekiro-corrupt-save-fix.git
   ```
   
 - 需要 pyinstaller 工具进行打包，如果没有，则安装之
