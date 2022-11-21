@@ -42,7 +42,7 @@ This tool is written based on [this](https://www.reddit.com/r/Sekiro/comments/b5
 - Clone this repository
 
   ```
-  git clone git@github.com:z0gSh1u/sekiro-corrupt-save-fix.git
+  git clone https://github.com/z0gSh1u/sekiro-corrupt-save-fix.git
   ```
 
 - Run this if you need graphical user interface (GUI)
@@ -63,7 +63,7 @@ This tool is written based on [this](https://www.reddit.com/r/Sekiro/comments/b5
 - Clone this repository
 
   ```
-  git clone git@github.com:z0gSh1u/sekiro-corrupt-save-fix.git
+  git clone https://github.com/z0gSh1u/sekiro-corrupt-save-fix.git
   ```
   
 - pyinstaller is required. Install it if you don't have one
